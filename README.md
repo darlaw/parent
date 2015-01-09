@@ -3,7 +3,6 @@ title: "Portfolio"
 author: "Darion Lawson"
 output:
   html_document:
-    css: markdown2.css
     theme: cerulean
     toc: yes
 ---
