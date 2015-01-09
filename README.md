@@ -12,4 +12,4 @@ Thanks for viewing my portfolio. This repository contains code samples and analy
 
 * courses: contains projects that I completed for a specific course.
 
-* analyses: contains analyses I performed freely available data the I found.  The type of analysis performed is dependent on the nature of the data.
+* analyses: contains analyses I performed on freely available data.  The type of analysis performed is dependent on the nature of the data.
